@@ -4,7 +4,7 @@ source 'https://rubygems.org'
 gem 'rails', '4.2.1'
 gem 'rails-api'
 gem 'pg'
-gem 'active_model_serializers'
+gem 'jbuilder'
 gem 'devise'
 gem 'simple_token_authentication', '~> 1.0'
 
